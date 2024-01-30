@@ -1,9 +1,10 @@
-#**Srimad Bhagavad Gita Chrome Extension**
+# **Srimad Bhagavad Gita Chrome Extension**
 
 ## Overview
-![Preview](Bhagavad gita extension.png)
-The Srimad Bhagavad Gita Chrome Extension is a simple extension that provides users with daily verses from the Bhagavad Gita when they click on the extension icon. It aims to spread wisdom and insights from the Bhagavad Gita to users as they navigate the web.
+![Preview](https://github.com/dhanyashreem2400/Bhagavad-Gita-Chrome-Extension/blob/main/Bhagavad%20gita%20extension.PNG)
+- The Srimad Bhagavad Gita Chrome Extension is a simple extension that provides users with daily verses from the Bhagavad Gita when they click on the extension icon. It aims to spread wisdom and insights from the Bhagavad Gita to users as they navigate the web.
 
+## Icon
 ![Extension Icon](BGicon.PNG)
 
 ## Features
@@ -27,18 +28,12 @@ The Srimad Bhagavad Gita Chrome Extension is a simple extension that provides us
 
 ## Options
 
-The extension provides options to customize your experience:
+The extension provides options to customize your experience so feel free to as per your wish.
 
 
 ## Contributing
 
-If you find a bug, have a feature request, or want to contribute to the project, please follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`.
-3. Make your changes and commit them: `git commit -m 'Add your feature'`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Submit a pull request.
+If you find a bug, have a feature request, or want to contribute to the project you are always welcome.
 
 
 ## License
