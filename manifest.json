@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Srimad Bhagavad Gita",
+  "version": "1.0",
+  "description": "The Bhagavad Gita, often referred to as the Song of God, is a sacred Hindu scripture that encapsulates a profound conversation between Lord Krishna and the warrior Arjuna. It provides timeless wisdom on duty, righteousness, and the path to spiritual realization.",
+  "permissions": ["activeTab","scripting"],
+  "action": {
+    "default_title":"Srimad Bhagavad Gita",
+    "default_icon":{
+      "32" : "favicon-32x32.png"
+      },
+      "default_popup": "popup.html"
+    
+  }
+}
+
